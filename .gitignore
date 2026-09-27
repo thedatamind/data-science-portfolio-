@@ -1,0 +1,13 @@
+# Data is never committed (client data is under NDA; the face database has its own licence)
+data/
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
